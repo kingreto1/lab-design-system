@@ -5,12 +5,12 @@ module.exports = {
   ],
   theme: {
     fontSize: {
-      xs: 14,
-      sm: 16,
-      md: 18,
-      lg: 20,
-      xl: 24,
-      '2xl': 32,
+      xs: 14 - 3,
+      sm: 16 - 3,
+      md: 18 - 3,
+      lg: 20 - 3,
+      xl: 24 - 3,
+      '2xl': 32 - 3,
     },
     colors: {
       transparent: 'transparent',
